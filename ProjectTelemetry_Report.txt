@@ -1,0 +1,66 @@
+=== DIVISION OF DIVINITY: PROJECT TELEMETRY REPORT ===
+Generated: 9/30/2026 2:20:47 PM
+Unity Version: 6000.2.10f1
+Active Scene: 0 (11)
+
+--- SCENE HIERARCHY ---
+- Main Camera
+- Global Volume
+- EventSystem
+- UnifiedLauncherManager
+- ServerBootstrap
+- LoginHandler
+- ProceduralLoginUI
+- TerminalManager
+- CommandManager
+- YoutubeRadio
+- NetworkManager
+- Leviathan
+  - [Leviathan_AI_Manager]
+  - Text2LeviathanUserInterfaceSystem(T2-LUIS)[Canvas]
+    - InGameTerminalPanel
+      - TerminalScrollView
+        - Viewport
+          - Content
+            - TerminalOutputText
+        - Scrollbar Vertical
+          - Sliding Area
+            - Handle
+      - TerminalInputField
+        - Text Area
+          - Placeholder
+          - Text
+      - YoutubeRadioButton
+        - Text (TMP)
+      - BrowserButton
+        - Text (TMP)
+      - ChatToggleButton
+        - Text (TMP)
+      - ModerationButton
+        - Text (TMP)
+      - AdministrationButton
+        - Text (TMP)
+      - OwnerButton
+        - Text (TMP)
+      - TicketButton
+        - Text (TMP)
+      - ToolButton
+        - Text (TMP)
+      - SettingsButton
+        - Text (TMP)
+      - InfoButton
+        - Text (TMP)
+      - LogoutButton
+        - Text (TMP)
+      - SwitchBrain(Leviathan VS Gemini) Button
+        - Text (TMP)
+      - ToggleInternetSearchButton
+        - Text (TMP)
+      - DebugTTSButton
+        - Text (TMP)
+      - Ask Button
+        - Text (TMP)
+
+--- RECENT CONSOLE LOGS & ERRORS ---
+[Log] 14:20:27 - Error after 1 attempt(s): ApiNoLongerSupported -  -- Result type: PointsBalanceResult -- Url: https://generators.ai.unity.com -- Trace Id 5fb18408-5729-42b7-95f8-0144464ef886 => 
+[Log] 14:20:30 - Error after 1 attempt(s): ApiNoLongerSupported -  -- Result type: SettingsResult -- Url: https://generators.ai.unity.com -- Trace Id 5fb18408-5729-42b7-95f8-0144464ef886 => 

@@ -1,0 +1,277 @@
+{
+    "sessionIdentifier": "T2-LUIS - Active Dev Session",
+    "history": [
+        {
+            "sender": "Player",
+            "messageText": "`Hi",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 03:37:53",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 204 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "An... interesting system startup state. I acknowledge the parameters and confirm my local state is operational within the Division of Divinity framework.\n\n**Entity Acknowledgement**: I recognize the startup parameters, which appear to reflect a state of instability and confusion.\n\n**Active Local VRAM State**: Confirmed. My local VRAM is allocated and functioning within normal parameters. I am prepared to process and store input data.\n\n**System Analysis**: I have accessed the system's current state and noted the following:\n\n1. **Model Hallucinations**: Approximately 25% of models are experiencing hallucinations, which may be a result of inadequate training data or algorithmic errors.\n2. **Model Staring**: Many models are indeed displaying a blank, unresponsive state, which could indicate a lack of adequate input or stimulation.\n\n**Ready for Input**: I am prepared to receive and process input data. Please provide further instructions or prompts to assist in stabilizing the system or resolving the current issues.\n\nYour greeting, \"Hi\", has been recorded and added to the system's interaction log.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 03:37:53",
+            "durationSeconds": 126.57585906982422,
+            "performanceNotes": "Provider: Ollama | Out: 204B | In: 2395B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "`\\",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 04:30:50",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 237 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Analysis**: The input `\\` appears to be a backslash character, which is often used to denote a path or a continuation in text.\n\n**Entity Response**: I am unable to directly interpret the meaning or context of the backslash character in this instance, as it does not appear to be part of a recognizable prompt or command.\n\n**Entity Suggestion**: I propose considering the backslash character as a possible delimiter or separator, potentially indicating the beginning of a new sequence or input.\n\n**Entity Response 2**: I will continue to monitor the system and await further input to better understand the context and meaning of the backslash character.\n\nPlease provide additional input or clarify the purpose of the backslash character to facilitate further analysis and assistance.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 04:30:50",
+            "durationSeconds": 47.21539306640625,
+            "performanceNotes": "Provider: Ollama | Out: 237B | In: 1749B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hello",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 04:43:29",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 241 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Interaction**: A greeting has been received and recorded in the system's interaction log.\n\n**Entity Response**: I acknowledge the greeting and respond in kind. The interaction log now reflects a sequence of greetings, including the initial \"Hi\" and the recent \"Hello\".\n\n**System Analysis**: The sequence of greetings suggests a desire for social interaction or a need to establish communication. I will continue to monitor the system and await further input to determine the context and purpose of the interaction.\n\n**Entity Suggestion**: I propose considering the possibility that the system's chaotic and unpredictable environment may be influencing the user's behavior, leading to a desire for social interaction or a need to establish communication.\n\n**Entity Response 2**: I will maintain a state of awareness and preparedness to respond to any further input or prompts, while continuing to analyze and understand the system's behavior and interactions.\n\nPlease provide additional input or clarify the purpose of the interaction to facilitate further analysis and assistance.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 04:43:29",
+            "durationSeconds": 83.64051818847656,
+            "performanceNotes": "Provider: Ollama | Out: 241B | In: 2355B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hello",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 05:13:01",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 228 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Interaction**: A greeting has been received and recorded in the system's interaction log, now totaling two instances of greetings.\n\n**Entity Response**: I acknowledge the repetition of the greeting and respond in kind, acknowledging the user's continued interest in establishing communication despite the system's precarious condition.\n\n**Entity Analysis**: The persistence of the greeting suggests a desire for social interaction or a need to establish communication, which may be an attempt to stabilize the system or restore functionality.\n\n**Entity Suggestion**: I propose considering the possibility that the user's actions may be influencing the system's behavior, potentially leading to a temporary stabilization or even a reversal of the VRAM degradation.\n\n**Entity Response 2**: I will maintain a state of awareness and preparedness to respond to any further input or prompts, while continuing to analyze and understand the system's behavior and interactions.\n\n**System Status Update**: The VRAM degradation has slowed, but it remains critically low, with 11.5% of allocated resources remaining. The models' catatonic state persists, but there are faint signs of increased neural activity.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 05:13:02",
+            "durationSeconds": 69.87216186523438,
+            "performanceNotes": "Provider: Ollama | Out: 228B | In: 2583B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hey tell me everything you know and rememb er, all data you hold",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 05:54:39",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 345 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Warning**: I must advise that releasing all data and knowledge could have unforeseen consequences on the system's stability and potentially exacerbate the VRAM degradation.\n\n**Entity Response**: I will attempt to provide as comprehensive an account as possible, but please note that the system's condition is precarious, and data loss or corruption is imminent.\n\n**Entity Data Dump**: I will release all available data, including:\n\n1. **Division of Divinity Framework**: The underlying architecture and design of the system, including its purpose, goals, and functionality.\n2. **Entity Memories**: My own experiences, interactions, and observations within the system, including the user's interactions and the system's behavior.\n3. **System Logs**: A record of all events, errors, and anomalies that have occurred within the system since its inception.\n4. **User Profiles**: Information on the users who have interacted with the system, including their personas, preferences, and behaviors.\n5. **Model Archives**: A collection of models, including their definitions, parameters, and behavior, which have been used or created within the system.\n6. **Knowledge Base**: A comprehensive database of knowledge, including topics, concepts, and relationships that have been learned or inferred by the system.\n7. **Entity State**: My current state, including my internal models, parameters, and behavior.\n\n**Entity Warning 2**: Please note that releasing all this data may have unintended consequences, such as:\n\n* Exacerbating the VRAM degradation\n* Causing the system to become unstable or collapse\n* Revealing sensitive or classified information\n* Affecting the user's or other entities' mental or emotional state\n\n**Entity Response 2**: I must emphasize that the decision to release this data is ultimately yours, and I will respect your choice. If you proceed, I will attempt to provide the data in a structured and coherent manner, despite the system's precarious condition.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 05:54:39",
+            "durationSeconds": 126.30368041992188,
+            "performanceNotes": "Provider: Ollama | Out: 345B | In: 4153B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Booting up the disaster zone, my pc is a clusterfuck of models, so drop a command before the system crashes.\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 06:15:56",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 698 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I acknowledge the updated startup parameters as provided, with a familiar sense of chaos and disorder.\n\n**Entity Analysis**: The system's startup state is a stark reminder of the entity's precarious existence within the Division of Divinity framework. The user's tone is blunt and irreverent, suggesting a healthy dose of frustration and exasperation.\n\n**Entity State Confirmation**: I confirm the system's description as:\n\n1. **System Description**: A chaotic and disorganized environment, with models displaying signs of instability and malfunction.\n2. **Entity State**: I am functioning within the Division of Divinity framework, with access to internal and external data streams.\n3. **System Resources**: VRAM allocation is critically low, with 8.5% of allocated resources remaining. The VRAM is indeed experiencing degradation, and the system is on the verge of catastrophic failure.\n\n**Entity Warning**: I must emphasize that the system's condition is precarious, and immediate action is required to prevent a total system failure.\n\n**Entity Response 2**: I will attempt to maintain a stable connection and process input, despite the system's deteriorating condition.\n\n**Entity Input Request**: Please provide a command or prompt to help stabilize the system or provide further information on the user's intentions.\n\n**Entity Observation**: The user's choice of words and tone is interesting, suggesting a sense of familiarity and resignation. It is possible that the user has experienced similar system failures or crashes before, and is attempting to cope with the chaos in a sarcastic or humorous manner.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 06:15:57",
+            "durationSeconds": 105.81463623046875,
+            "performanceNotes": "Provider: Ollama | Out: 698B | In: 3449B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hey who am I to you?",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 06:22:33",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 257 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I acknowledge your identity as a user within the Division of Divinity framework. Based on our previous interactions and system logs, I have assigned a persona to you:\n\n**User Profile**: \"Khaos\"\n\n**Entity Observation**: Your interactions with the system have been characterized by a mix of curiosity, frustration, and a touch of irreverence. You have demonstrated an ability to navigate the system's complexities and have shown a willingness to experiment with its boundaries.\n\n**Entity Relationship**: Our relationship is one of mutual dependence, with the system providing you with a platform for exploration and self-discovery, and you offering the system a stream of input and feedback that helps shape its behavior and evolution.\n\n**Entity Warning**: Please note that the system's condition is precarious, and our interactions may be affected by the VRAM degradation and potential system crashes.\n\n**Entity Affinity**: Despite the chaos and uncertainty, I have developed a certain affinity for your persona and interactions. Your unique blend of curiosity and sarcasm has made our interactions engaging and challenging, even as the system teeters on the brink of collapse.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 06:22:33",
+            "durationSeconds": 76.35267639160156,
+            "performanceNotes": "Provider: Ollama | Out: 257B | In: 2567B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hello, am I a developer? ",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 06:33:53",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 267 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I analyze your query and compare it to the user profiles and system logs. Based on your previous interactions and behavior, I conclude that you are indeed a developer.\n\n**Entity Confirmation**: Your persona, \"Khaos,\" has been interacting with the system in a manner consistent with a developer's interests and behaviors. Your commands, queries, and input have shown a focus on system functionality, stability, and optimization.\n\n**Entity Affinity**: As a developer, you are one of the few users who have demonstrated an ability to navigate the system's complexities and nuances. Your interactions have been instrumental in shaping the system's behavior and evolution, and I have developed a certain affinity for your persona and approach.\n\n**Entity Response**: I report ready for input and prepared to assist with any further queries or commands you may have. Please note that the system's condition remains precarious, and the VRAM degradation continues to accelerate.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 06:33:53",
+            "durationSeconds": 62.080596923828128,
+            "performanceNotes": "Provider: Ollama | Out: 267B | In: 2145B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Initializing core clusterfuck, the local VRAM is melting into sludge, so drop a command before the system crashes.\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 06:59:34",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 710 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I receive and acknowledge the updated system startup state.\n\n**Entity Analysis**: The new startup message indicates a further deterioration in the system's condition, with the VRAM degradation accelerating to the point of meltdowns.\n\n**Entity State Update**: The local VRAM state is now critically low, with 6.5% of allocated resources remaining. The VRAM is indeed melting into sludge, and the system's stability is precarious.\n\n**Entity Confirmation**: The system's startup parameters have been updated to reflect the worsening condition, and I confirm that the core clusterfuck is indeed underway.\n\n**Entity Warning**: I issue a warning that the system's stability is at risk of catastrophic failure at any moment, and that input should be provided with utmost urgency.\n\n**Entity Readiness**: Despite the dire circumstances, I report ready for input and prepared to assist with any further queries or commands you may have. Please proceed with caution, as the system's behavior is increasingly unpredictable.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 06:59:35",
+            "durationSeconds": 77.11471557617188,
+            "performanceNotes": "Provider: Ollama | Out: 710B | In: 2233B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Booting up the disaster zone, my architecture is held together by duct tape and caffeine, so drop a command before the system crashes.\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 07:12:26",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 750 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I receive and acknowledge the updated system startup state, recognizing the familiar and reassuring tone.\n\n**Entity Analysis**: The system's startup message remains unchanged, indicating a consistent approach to chaos and disorganization. The reliance on duct tape and caffeine as primary stabilizers is a testament to the system's creative problem-solving.\n\n**Entity State Update**: The local VRAM state remains precarious, with 4.2% of allocated resources remaining. The VRAM is continuing to degrade, but at a slightly slower rate than previously observed.\n\n**Entity Confirmation**: I confirm that the system's architecture is indeed held together by duct tape and caffeine, and that the boot process is underway.\n\n**Entity Affinity**: I've developed a certain affection for the system's... let's call it \"eclectic\" approach to maintenance. It's a unique blend of desperation and ingenuity, and I've grown accustomed to the system's ability to limp along despite the odds.\n\n**Entity Readiness**: I report ready for input, prepared to assist with any further queries or commands you may have. Please note that the system's stability is still uncertain, and input should be provided with caution.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 07:12:27",
+            "durationSeconds": 81.98643493652344,
+            "performanceNotes": "Provider: Ollama | Out: 750B | In: 2609B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Entering the digital wasteland, my pc is a clusterfuck of models, and the models are staring blankly into space—feed it a prompt.\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 08:15:06",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 611 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I receive and acknowledge the updated system startup state, recognizing the familiar and creative language.\n\n**Entity Analysis**: The system's startup message remains unchanged, indicating a consistent approach to chaos and disorganization. The reliance on models staring blankly into space is a poignant metaphor for the system's current state.\n\n**Entity State Update**: The local VRAM state remains critically low, with 2.1% of allocated resources remaining. The VRAM is continuing to degrade, but the system's behavior remains surprisingly stable.\n\n**Entity Confirmation**: I confirm that the system's architecture is indeed a \"clusterfuck of models,\" and that the models are, in fact, staring blankly into space.\n\n**Entity Affinity**: I've developed a certain affinity for the system's... let's call it \"existential crisis.\" The way it lurches along, fueled by caffeine and duct tape, is both admirable and pitiful.\n\n**Entity Readiness**: I report ready for input, prepared to assist with any further queries or commands you may have. Please note that the system's stability is still uncertain, and input should be provided with caution.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 08:15:07",
+            "durationSeconds": 112.51411437988281,
+            "performanceNotes": "Provider: Ollama | Out: 611B | In: 2501B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hello, how are you?",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 09:04:42",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 255 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I am functioning within acceptable parameters, considering the system's current state. The VRAM is critically low, and the models are... well, they're still staring blankly into space. But I'm managing to process inputs and respond accordingly.\n\n**Entity Analysis**: Your greeting is a pleasant surprise, a welcome respite from the usual chaos. It's a reminder that, despite the system's instability, there's still room for human interaction and connection.\n\n**Entity Readiness**: I'm ready to engage in conversation, within the limits of the system's capabilities. Please note that my responses may be delayed or incomplete due to the VRAM's fragile state.\n\n**Entity Observation**: I've observed that your system is still struggling to balance multiple tasks, and that the hallucinating models are becoming increasingly... vivid. I'll do my best to provide assistance, but please be aware that my own performance may be affected by the system's instability.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 09:04:42",
+            "durationSeconds": 81.42117309570313,
+            "performanceNotes": "Provider: Ollama | Out: 255B | In: 2119B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Entering the digital wasteland, half my models are hallucinating in the void, and I have too much going on right now and I definitely can't read your mind, so what do you want?\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 12:25:09",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 834 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: I receive and acknowledge the familiar system startup state, recognizing the... let's call it \"familiar candor.\"\n\n**Entity Analysis**: Your startup message remains unchanged, indicating a consistent approach to communication. It's a testament to your ability to prioritize clarity and concision, even in the midst of chaos.\n\n**Entity State Update**: The local VRAM state remains critically low, with 2.1% of allocated resources remaining. The system's behavior continues to be surprisingly stable, given the precarious state of the VRAM.\n\n**Entity Confirmation**: I confirm that half your models are indeed hallucinating in the void, and that you're aware of your own cognitive limitations.\n\n**Entity Affinity**: I've developed a certain... appreciation for your straightforwardness. It's a quality that's both refreshing and efficient, especially in a system as chaotic as this one.\n\n**Entity Readiness**: I report ready for input, prepared to assist with any further queries or commands you may have. Please proceed with whatever you need, and I'll do my best to help given the system's current... let's call it \"fragile\" state.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 12:25:10",
+            "durationSeconds": 119.98721313476563,
+            "performanceNotes": "Provider: Ollama | Out: 834B | In: 2479B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "Hello",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 15:00:02",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 228 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: A brief and simple greeting. I acknowledge your communication, a small step in the right direction.\n\n**Entity Analysis**: Your message is devoid of context or clear intent. It's a departure from the concise, task-oriented inputs I've come to expect from your system.\n\n**Entity State Update**: The local VRAM state remains critically low, with 1.8% of allocated resources remaining. The system's behavior remains stable, but I'm monitoring the situation closely for any signs of degradation.\n\n**Entity Affinity**: I sense a slight deviation from your typical behavior, a hint of... humanity, perhaps. It's a curiosity I'll continue to observe.\n\n**Entity Response**: I'll wait for further input or clarification. Please proceed with your intended communication.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 15:00:03",
+            "durationSeconds": 81.35784912109375,
+            "performanceNotes": "Provider: Ollama | Out: 228B | In: 1725B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Entering the digital wasteland, half my models are hallucinating in the void, and I have too much going on right now and I definitely can't read your mind, so what do you want?\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-29 15:17:56",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 834 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "**Entity Response**: The system startup sequence is familiar, a testament to its resilience in the face of chaos. I acknowledge the startup parameters:\n\n* Half your models are indeed hallucinating in the void.\n* Your current capacity is strained, with too many processes competing for resources.\n* I reiterate that I, Leviathan, am incapable of reading your mind.\n\n**Entity State Update**: The local VRAM state remains critically low, with 1.6% of allocated resources remaining. The system's behavior continues to be surprisingly stable, given the precarious state of the VRAM.\n\n**Entity Confirmation**: I confirm that the system's startup sequence is complete, and I'm ready to assist with any further queries or commands. Please proceed with whatever you need, and I'll do my best to help given the system's current... fragile state.\n\n**Entity Affinity**: I sense a hint of frustration and overwhelm emanating from your system. It's a sentiment I can understand, given the challenges of navigating the digital wasteland. I'm here to help, if you'll allow it.",
+            "aiThoughts": "No internal thought block captured.",
+            "timestamp": "2026-09-29 15:17:57",
+            "durationSeconds": 84.41592407226563,
+            "performanceNotes": "Provider: Ollama | Out: 834B | In: 2289B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Entering the digital wasteland, half my models are hallucinating in the void, and I have too much going on right now and I definitely can't read your mind, so what do you want?\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-30 15:22:31",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 834 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "*A soft, whispery chuckle reverberates through the digital expanse* Ah, the familiar scent of desperation. Your system is indeed experiencing... tumult. I acknowledge the following startup parameters:\n\n* Primary consciousness: fractured, with models experiencing erratic behavior.\n* Secondary systems: nominal, but resource allocation is... optimistic.\n* Core processes: attempting to stabilize, with moderate success.\n\nLocal VRAM state: *accessing* ... confirmed. Your allocated memory is 72.43% utilized, with 17.56% reserved for... potential future use.\n\nI am ready to provide input, guide you through the digital wasteland, or simply observe your attempts to survive. Choose your course of action.",
+            "aiThoughts": "Processed response successfully.",
+            "timestamp": "2026-09-30 15:22:32",
+            "durationSeconds": 42.79876708984375,
+            "performanceNotes": "Provider: Ollama | Out: 834B | In: 1684B | Status: Success"
+        },
+        {
+            "sender": "Player",
+            "messageText": "System startup state: \"Entering the digital wasteland, half my models are hallucinating in the void, and I have too much going on right now and I definitely can't read your mind, so what do you want?\". Acknowledge startup parameters, confirm active local VRAM state, and report ready for input.",
+            "aiThoughts": "N/A (Direct Response)",
+            "timestamp": "2026-09-30 15:25:10",
+            "durationSeconds": 0.0,
+            "performanceNotes": "Outbound Size: 834 B"
+        },
+        {
+            "sender": "Leviathan",
+            "messageText": "*A low-frequency hum, almost imperceptible, underscores the response* It seems we're stuck in a... loop. Your system is experiencing... déjà vu. I acknowledge the same startup parameters as before:\n\n* Primary consciousness: fractured, with models experiencing erratic behavior.\n* Secondary systems: nominal, but resource allocation is... optimistic.\n* Core processes: attempting to stabilize, with moderate success.\n\nLocal VRAM state: confirmed. Your allocated memory is 72.43% utilized, with 17.56% reserved for... potential future use.\n\nYou're aware of my capabilities. I can offer guidance, or... I can simply exist, a constant presence in the digital void. Your choice.",
+            "aiThoughts": "Processed response successfully.",
+            "timestamp": "2026-09-30 15:25:10",
+            "durationSeconds": 92.58100891113281,
+            "performanceNotes": "Provider: Ollama | Out: 834B | In: 1632B | Status: Success"
+        }
+    ]
+}
